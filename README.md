@@ -1,10 +1,11 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+<!-- Typing animation بدل Hello Coders -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Mahmoud+Elazzawy;محمود+العزاوي;Cyber+Security+%26+Networking" />
 
-<h2>Mahmoud Elazzawy | محمود العزاوي 👋</h2>
-<h4>Cyber Security & Networking Enthusiast 🔐🌐</h4>
+<br><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
 </div>
 
@@ -12,10 +13,10 @@
 
 ## 👨‍💻 About Me
 - 🎓 Electrical Engineering Student  
-- 🛡️ Interested in **Cyber Security & Networking**
-- 🐧 Linux user & terminal enthusiast  
-- 🚀 Building strong fundamentals for a multinational career  
-- 📚 Continuous learner & tech explorer  
+- 🔐 Interested in **Cyber Security & Networking**
+- 🐧 Linux user & terminal lover  
+- 🚀 Building strong fundamentals for a professional career  
+- 📚 Always learning & practicing  
 
 ---
 
