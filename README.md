@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Typing animation بدل Hello Coders -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Mahmoud+Elazzawy;محمود+العزاوي;Cyber+Security+%26+Networking" />
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=I'm+Mahmoud+Elazzawy;Cyber+Security+%26+Networking" />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 - 🎓 Electrical Engineering Student  
 - 🔐 Interested in **Cyber Security & Networking**
-- 🐧 Linux user & terminal lover  
+- 🐧 Linux user & terminal enthusiast  
 - 🚀 Building strong fundamentals for a professional career  
 - 📚 Always learning & practicing  
 
@@ -32,33 +32,45 @@
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
-```python
-# Cyber Security & Networking Stack
+---
 
-Mahmoud = {
-    "Networking": [
-        "TCP/IP",
-        "OSI Model",
-        "Subnetting",
-        "Routing Basics"
-    ],
-    "CyberSecurity": [
-        "Network Security",
-        "Threats & Attacks",
-        "Basic Penetration Testing"
-    ],
-    "Tools": [
-        "Wireshark",
-        "Nmap",
-        "Linux CLI"
-    ],
-    "Programming": [
-        "Python",
-        "C",
-        "Bash"
-    ],
-    "Platforms": [
-        "Linux",
-        "Windows"
-    ]
-}
+## 📖 Currently Learning
+- 🌐 CCNA Topics  
+- 🔍 Network Security  
+- 🛡️ Ethical Hacking Basics  
+- 🐧 Advanced Linux  
+
+---
+
+## 🎯 Goals
+- ✔️ Build strong cyber & networking fundamentals  
+- ✔️ Create hands-on security projects  
+- ✔️ Get internships before graduation  
+- ✔️ Work professionally in Cyber Security  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudElazzawy&show_icons=true&theme=tokyonight" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElazzawy&layout=compact&theme=tokyonight" width="45%"/>
+
+</div>
+
+---
+
+## 📫 Contact Me
+- 💬 Telegram: **@YourTelegram**
+- 📧 Email: **yourmail@example.com**
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="8%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="8%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="8%" />
+
+</div>
