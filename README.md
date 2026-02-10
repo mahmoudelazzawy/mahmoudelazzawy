@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Electrical Engineering Student  
+- 🎓 Electronics & Communication Engineering Student  
 - 🔐 Interested in **Cyber Security & Networking**
 - 🐧 Linux user & terminal enthusiast  
 - 🚀 Building strong fundamentals for a professional career  
@@ -20,22 +20,32 @@
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧰 Tools, Languages & Technologies
 
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat)
-![CyberSecurity](https://img.shields.io/badge/Cyber_Security-8B0000?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+### 🔹 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### 🔹 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+### 🔹 Networking & Cyber Security
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square)
+
+### 🔹 Dev & Tools
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 ---
 
 ## 📖 Currently Learning
-- 🌐 CCNA Topics  
+- 🌐 CCNA 
 - 🔍 Network Security  
 - 🛡️ Ethical Hacking Basics  
 - 🐧 Advanced Linux  
@@ -44,20 +54,13 @@
 
 ## 🎯 Goals
 - ✔️ Build strong cyber & networking fundamentals  
-- ✔️ Create hands-on security projects  
+- ✔️ Create hands-on security & networking projects  
 - ✔️ Get internships before graduation  
 - ✔️ Work professionally in Cyber Security  
 
 
+---
+
 ## 📫 Contact Me
 - 📧 Email: **mahmoudalimostafaelazzawy@gmail.com**
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="8%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="8%" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="8%" />
-
-</div>
