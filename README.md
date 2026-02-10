@@ -48,22 +48,9 @@
 - ✔️ Get internships before graduation  
 - ✔️ Work professionally in Cyber Security  
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudElazzawy&show_icons=true&theme=tokyonight" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElazzawy&layout=compact&theme=tokyonight" width="45%"/>
-
-</div>
-
----
 
 ## 📫 Contact Me
-- 💬 Telegram: **@YourTelegram**
-- 📧 Email: **yourmail@example.com**
+- 📧 Email: **mahmoudalimostafaelazzawy@gmail.com**
 
 ---
 
